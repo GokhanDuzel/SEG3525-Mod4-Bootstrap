@@ -1,0 +1,49 @@
+
+/* Style sheet
+   color picker www.w3schools.com/colors/colors_picker.asp
+*/
+
+/* Bootstrap default font-family is Helvetica Neue */
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 3px 3px 1px black;
+  
+}
+.btn-primary {
+    background-color: #fe9801;
+}
+
+h3 {
+    color: black;
+}
+
+.text-center {
+    color: black
+}
+
+.container {
+    
+}
+
+.table {
+    background-color: #ccda46;
+}
+
+.a {
+    background-color: #fe9801;
+}
+
+.b {
+    background-color: #f4eec7;
+}
+
+.card-link {
+    color: #fe9801;
+}
+
+.bg-danger {
+    background-color: #697c37;
+}
+
+
